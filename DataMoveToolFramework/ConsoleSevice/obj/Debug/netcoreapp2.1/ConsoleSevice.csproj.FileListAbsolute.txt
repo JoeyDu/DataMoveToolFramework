@@ -1,0 +1,11 @@
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\bin\Debug\netcoreapp2.1\ConsoleSevice.deps.json
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\bin\Debug\netcoreapp2.1\ConsoleSevice.runtimeconfig.json
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\bin\Debug\netcoreapp2.1\ConsoleSevice.runtimeconfig.dev.json
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\bin\Debug\netcoreapp2.1\ConsoleSevice.dll
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\bin\Debug\netcoreapp2.1\ConsoleSevice.pdb
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\obj\Debug\netcoreapp2.1\ConsoleSevice.csprojAssemblyReference.cache
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\obj\Debug\netcoreapp2.1\ConsoleSevice.csproj.CoreCompileInputs.cache
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\obj\Debug\netcoreapp2.1\ConsoleSevice.AssemblyInfoInputs.cache
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\obj\Debug\netcoreapp2.1\ConsoleSevice.AssemblyInfo.cs
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\obj\Debug\netcoreapp2.1\ConsoleSevice.dll
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\ConsoleSevice\obj\Debug\netcoreapp2.1\ConsoleSevice.pdb
