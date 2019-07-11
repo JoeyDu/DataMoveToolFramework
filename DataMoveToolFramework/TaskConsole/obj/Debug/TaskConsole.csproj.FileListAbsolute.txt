@@ -1,0 +1,6 @@
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\TaskConsole\bin\Debug\TaskConsole.exe.config
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\TaskConsole\bin\Debug\TaskConsole.exe
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\TaskConsole\bin\Debug\TaskConsole.pdb
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\TaskConsole\obj\Debug\TaskConsole.csproj.CoreCompileInputs.cache
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\TaskConsole\obj\Debug\TaskConsole.exe
+E:\个人代码\DataMoveToolFramework\DataMoveToolFramework\TaskConsole\obj\Debug\TaskConsole.pdb
